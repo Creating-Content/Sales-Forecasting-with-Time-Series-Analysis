@@ -74,7 +74,7 @@ Using the attached sample data, please come up with your analytics approach:
 
 ## Author
 
-* **Rahul Gaikwad** - Initial work and development
+* **Arkadip Ghosh** - Initial work and development
 
 <br/>
 
@@ -84,6 +84,6 @@ Using the attached sample data, please come up with your analytics approach:
 
 <br/>
 
-I welcome your questions. Write to rahul.gaikwad2010@gmail.com
+I welcome your questions. Write to www.diparka340@gmail.com
 
 <br/>
